@@ -1,0 +1,73 @@
+{
+ "units": "studs",
+ "forward": "-Z",
+ "up": "+Y",
+ "hero_triangles": 49964,
+ "game_triangles": 7104,
+ "colour_parts": {
+  "orange": {
+   "color_rgb": [
+    232,
+    121,
+    30
+   ],
+   "triangles": 1827
+  },
+  "deep_orange": {
+   "color_rgb": [
+    196,
+    86,
+    15
+   ],
+   "triangles": 1132
+  },
+  "cream": {
+   "color_rgb": [
+    255,
+    240,
+    214
+   ],
+   "triangles": 1277
+  },
+  "brown": {
+   "color_rgb": [
+    58,
+    36,
+    26
+   ],
+   "triangles": 1028
+  },
+  "flame_orange": {
+   "color_rgb": [
+    255,
+    106,
+    20
+   ],
+   "triangles": 461
+  },
+  "flame_yellow": {
+   "color_rgb": [
+    255,
+    201,
+    60
+   ],
+   "triangles": 493
+  },
+  "amber_eye": {
+   "color_rgb": [
+    255,
+    158,
+    31
+   ],
+   "triangles": 726
+  },
+  "white": {
+   "color_rgb": [
+    255,
+    255,
+    255
+   ],
+   "triangles": 160
+  }
+ }
+}
