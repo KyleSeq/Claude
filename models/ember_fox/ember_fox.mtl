@@ -1,0 +1,48 @@
+newmtl mat_2A1A14
+Kd 0.165 0.102 0.078
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_3A2318
+Kd 0.227 0.137 0.094
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_D9651C
+Kd 0.851 0.396 0.110
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_F08A24
+Kd 0.941 0.541 0.141
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_FF7A1A
+Kd 1.000 0.478 0.102
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_FFC93C
+Kd 1.000 0.788 0.235
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_FFF1D6
+Kd 1.000 0.945 0.839
+Ka 0 0 0
+Ks 0 0 0
+d 1
+
+newmtl mat_FFFFFF
+Kd 1.000 1.000 1.000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+

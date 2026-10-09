@@ -1,0 +1,315 @@
+{
+ "unit": "studs",
+ "faces": "-Z",
+ "up": "+Y",
+ "parts": [
+  {
+   "name": "body",
+   "color": "#F08A24",
+   "pivot": [
+    -0.0,
+    1.15,
+    0.1
+   ],
+   "triangles": 224,
+   "vertices": 114
+  },
+  {
+   "name": "chest",
+   "color": "#FFF1D6",
+   "pivot": [
+    -0.0,
+    0.98,
+    -0.62
+   ],
+   "triangles": 100,
+   "vertices": 52
+  },
+  {
+   "name": "head",
+   "color": "#F08A24",
+   "pivot": [
+    -0.0,
+    1.95,
+    -1.05
+   ],
+   "triangles": 288,
+   "vertices": 146
+  },
+  {
+   "name": "muzzle",
+   "color": "#FFF1D6",
+   "pivot": [
+    -0.0,
+    1.72,
+    -1.72
+   ],
+   "triangles": 100,
+   "vertices": 52
+  },
+  {
+   "name": "nose",
+   "color": "#2A1A14",
+   "pivot": [
+    -0.0,
+    1.8,
+    -2.04
+   ],
+   "triangles": 36,
+   "vertices": 20
+  },
+  {
+   "name": "eye_L",
+   "color": "#3A2318",
+   "pivot": [
+    -0.38,
+    2.02,
+    -1.68
+   ],
+   "triangles": 100,
+   "vertices": 52
+  },
+  {
+   "name": "eye_shine_L",
+   "color": "#FFFFFF",
+   "pivot": [
+    -0.34,
+    2.1,
+    -1.77
+   ],
+   "triangles": 36,
+   "vertices": 20
+  },
+  {
+   "name": "ear_L",
+   "color": "#F08A24",
+   "pivot": [
+    -0.55,
+    2.85,
+    -0.95
+   ],
+   "triangles": 80,
+   "vertices": 42
+  },
+  {
+   "name": "ear_inner_L",
+   "color": "#FFF1D6",
+   "pivot": [
+    -0.55,
+    2.78,
+    -1.06
+   ],
+   "triangles": 64,
+   "vertices": 34
+  },
+  {
+   "name": "cheek_L",
+   "color": "#FFF1D6",
+   "pivot": [
+    -0.62,
+    1.72,
+    -1.35
+   ],
+   "triangles": 64,
+   "vertices": 34
+  },
+  {
+   "name": "eye_R",
+   "color": "#3A2318",
+   "pivot": [
+    0.38,
+    2.02,
+    -1.68
+   ],
+   "triangles": 100,
+   "vertices": 52
+  },
+  {
+   "name": "eye_shine_R",
+   "color": "#FFFFFF",
+   "pivot": [
+    0.34,
+    2.1,
+    -1.77
+   ],
+   "triangles": 36,
+   "vertices": 20
+  },
+  {
+   "name": "ear_R",
+   "color": "#F08A24",
+   "pivot": [
+    0.55,
+    2.85,
+    -0.95
+   ],
+   "triangles": 80,
+   "vertices": 42
+  },
+  {
+   "name": "ear_inner_R",
+   "color": "#FFF1D6",
+   "pivot": [
+    0.55,
+    2.78,
+    -1.06
+   ],
+   "triangles": 64,
+   "vertices": 34
+  },
+  {
+   "name": "cheek_R",
+   "color": "#FFF1D6",
+   "pivot": [
+    0.62,
+    1.72,
+    -1.35
+   ],
+   "triangles": 64,
+   "vertices": 34
+  },
+  {
+   "name": "leg_LF",
+   "color": "#D9651C",
+   "pivot": [
+    -0.44,
+    0.48,
+    -0.62
+   ],
+   "triangles": 80,
+   "vertices": 42
+  },
+  {
+   "name": "paw_LF",
+   "color": "#FFF1D6",
+   "pivot": [
+    -0.44,
+    0.1,
+    -0.66
+   ],
+   "triangles": 48,
+   "vertices": 26
+  },
+  {
+   "name": "leg_LB",
+   "color": "#D9651C",
+   "pivot": [
+    -0.44,
+    0.48,
+    0.78
+   ],
+   "triangles": 80,
+   "vertices": 42
+  },
+  {
+   "name": "paw_LB",
+   "color": "#FFF1D6",
+   "pivot": [
+    -0.44,
+    0.1,
+    0.74
+   ],
+   "triangles": 48,
+   "vertices": 26
+  },
+  {
+   "name": "leg_RF",
+   "color": "#D9651C",
+   "pivot": [
+    0.44,
+    0.48,
+    -0.62
+   ],
+   "triangles": 80,
+   "vertices": 42
+  },
+  {
+   "name": "paw_RF",
+   "color": "#FFF1D6",
+   "pivot": [
+    0.44,
+    0.1,
+    -0.66
+   ],
+   "triangles": 48,
+   "vertices": 26
+  },
+  {
+   "name": "leg_RB",
+   "color": "#D9651C",
+   "pivot": [
+    0.44,
+    0.48,
+    0.78
+   ],
+   "triangles": 80,
+   "vertices": 42
+  },
+  {
+   "name": "paw_RB",
+   "color": "#FFF1D6",
+   "pivot": [
+    0.44,
+    0.1,
+    0.74
+   ],
+   "triangles": 48,
+   "vertices": 26
+  },
+  {
+   "name": "tail_1",
+   "color": "#F08A24",
+   "pivot": [
+    -0.0,
+    1.2,
+    1.2
+   ],
+   "triangles": 100,
+   "vertices": 52
+  },
+  {
+   "name": "tail_2",
+   "color": "#F08A24",
+   "pivot": [
+    -0.0,
+    1.62,
+    1.78
+   ],
+   "triangles": 144,
+   "vertices": 74
+  },
+  {
+   "name": "tail_3",
+   "color": "#D9651C",
+   "pivot": [
+    -0.0,
+    2.15,
+    2.2
+   ],
+   "triangles": 144,
+   "vertices": 74
+  },
+  {
+   "name": "flame_outer",
+   "color": "#FF7A1A",
+   "pivot": [
+    -0.0,
+    2.95,
+    2.42
+   ],
+   "triangles": 120,
+   "vertices": 62
+  },
+  {
+   "name": "flame_inner",
+   "color": "#FFC93C",
+   "pivot": [
+    -0.0,
+    2.88,
+    2.38
+   ],
+   "triangles": 80,
+   "vertices": 42
+  }
+ ]
+}
