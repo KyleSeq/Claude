@@ -1,0 +1,702 @@
+{
+ "spec-baseline": {
+  "casual (2x15min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    1.6,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.5,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.9,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.2,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.7,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    2.4,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    3.5,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.8,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    1.8,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    8.9,
+    "12/12"
+   ]
+  },
+  "regular (3x30min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    0.9,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.5,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.7,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    0.9,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    1.3,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    2.1,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.5,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    0.8,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    4.3,
+    "12/12"
+   ]
+  },
+  "dedicated (3h/day)": {
+   "slots_10": [
+    0.3,
+    "12/12"
+   ],
+   "slots_20": [
+    0.6,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.3,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.4,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.6,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    0.7,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    0.9,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    1.6,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.5,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    0.7,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    3.6,
+    "12/12"
+   ]
+  }
+ },
+ "A-cost-curve-only": {
+  "casual (2x15min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    2.1,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.6,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    1.0,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.6,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    2.7,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    5.0,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    10.0,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.8,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    2.6,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    12.6,
+    "12/12"
+   ]
+  },
+  "regular (3x30min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    1.2,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.9,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.6,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    2.7,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    6.4,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.5,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    0.7,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    3.9,
+    "12/12"
+   ]
+  },
+  "dedicated (3h/day)": {
+   "slots_10": [
+    0.3,
+    "12/12"
+   ],
+   "slots_20": [
+    0.9,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.3,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.5,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.7,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.2,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    2.0,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    4.8,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.5,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    0.7,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    6.6,
+    "12/12"
+   ]
+  }
+ },
+ "B-cost+rarity": {
+  "casual (2x15min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    2.4,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.5,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    1.0,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.6,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    3.2,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    5.8,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    13.7,
+    "12/12"
+   ],
+   "catch_Epic": [
+    1.1,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    3.4,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    27.4,
+    "11/12"
+   ]
+  },
+  "regular (3x30min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    1.4,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.9,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.8,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    3.4,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    7.5,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.6,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    1.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    8.4,
+    "12/12"
+   ]
+  },
+  "dedicated (3h/day)": {
+   "slots_10": [
+    0.3,
+    "12/12"
+   ],
+   "slots_20": [
+    1.3,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.8,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.6,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    2.9,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    6.7,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.5,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    1.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    8.0,
+    "12/12"
+   ]
+  }
+ },
+ "C-cost+rarity+weaker-nets": {
+  "casual (2x15min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    2.8,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.5,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    1.0,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.7,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    3.5,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    7.3,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    15.6,
+    "12/12"
+   ],
+   "catch_Epic": [
+    1.1,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    5.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    27.8,
+    "7/12"
+   ]
+  },
+  "regular (3x30min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    1.7,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.0,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    2.1,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    4.2,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    9.6,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.7,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    2.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    30.0,
+    "12/12"
+   ]
+  },
+  "dedicated (3h/day)": {
+   "slots_10": [
+    0.3,
+    "12/12"
+   ],
+   "slots_20": [
+    1.3,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.8,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.7,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    3.1,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    7.8,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.6,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    1.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    13.5,
+    "12/12"
+   ]
+  }
+ },
+ "D-full-proposal": {
+  "casual (2x15min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    3.2,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.5,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    1.0,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.9,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    4.2,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    8.0,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    19.4,
+    "12/12"
+   ],
+   "catch_Epic": [
+    1.1,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    6.1,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    27.8,
+    "7/12"
+   ]
+  },
+  "regular (3x30min/day)": {
+   "slots_10": [
+    0.4,
+    "12/12"
+   ],
+   "slots_20": [
+    1.7,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    1.0,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    2.1,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    4.2,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    10.3,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.7,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    2.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    29.9,
+    "12/12"
+   ]
+  },
+  "dedicated (3h/day)": {
+   "slots_10": [
+    0.3,
+    "12/12"
+   ],
+   "slots_20": [
+    1.4,
+    "12/12"
+   ],
+   "biome_CrystalCave": [
+    0.4,
+    "12/12"
+   ],
+   "biome_DeepOcean": [
+    0.6,
+    "12/12"
+   ],
+   "biome_Volcano": [
+    0.8,
+    "12/12"
+   ],
+   "biome_SkyIslands": [
+    1.7,
+    "12/12"
+   ],
+   "biome_ArcticTundra": [
+    3.2,
+    "12/12"
+   ],
+   "biome_AncientRuins": [
+    8.2,
+    "12/12"
+   ],
+   "catch_Epic": [
+    0.6,
+    "12/12"
+   ],
+   "catch_Legendary": [
+    1.3,
+    "12/12"
+   ],
+   "catch_Mythic": [
+    13.5,
+    "12/12"
+   ]
+  }
+ }
+}
