@@ -1,0 +1,96 @@
+{
+ "units": "studs",
+ "forward": "-Z",
+ "up": "+Y",
+ "triangles": 19709,
+ "colour_parts": {
+  "orange": {
+   "color_rgb": [
+    255,
+    132,
+    32
+   ],
+   "triangles": 3055
+  },
+  "light_orange": {
+   "color_rgb": [
+    255,
+    162,
+    74
+   ],
+   "triangles": 913
+  },
+  "deep_orange": {
+   "color_rgb": [
+    238,
+    100,
+    20
+   ],
+   "triangles": 1589
+  },
+  "cream": {
+   "color_rgb": [
+    255,
+    244,
+    224
+   ],
+   "triangles": 4404
+  },
+  "brown": {
+   "color_rgb": [
+    122,
+    69,
+    40
+   ],
+   "triangles": 1621
+  },
+  "blush_pink": {
+   "color_rgb": [
+    255,
+    143,
+    163
+   ],
+   "triangles": 133
+  },
+  "nose_eye_black": {
+   "color_rgb": [
+    18,
+    10,
+    12
+   ],
+   "triangles": 872
+  },
+  "eye_ring": {
+   "color_rgb": [
+    59,
+    36,
+    32
+   ],
+   "triangles": 784
+  },
+  "white": {
+   "color_rgb": [
+    255,
+    255,
+    255
+   ],
+   "triangles": 488
+  },
+  "crystal_orange": {
+   "color_rgb": [
+    255,
+    138,
+    42
+   ],
+   "triangles": 5238
+  },
+  "crystal_yellow": {
+   "color_rgb": [
+    255,
+    226,
+    122
+   ],
+   "triangles": 612
+  }
+ }
+}
